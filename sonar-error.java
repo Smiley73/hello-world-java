@@ -24,6 +24,7 @@ public class ComplexMethod {
         }
         return null;
     }
+}
     
 public enum Continent {
 
